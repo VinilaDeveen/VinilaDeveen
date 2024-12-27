@@ -9,57 +9,76 @@
 VinilaDeveen/VinilaDeveen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.-->
 
-# Hi there, I'm VinilaDeveen 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=VinilaDeveen&label=Profile%20views&color=0e75b6&style=flat)
+<h1 align="center"><b>Hi , I'm Vinila Deveen </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h>
 
-## About Me
+<p align="center">
+  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer...;Full%20Stack%20Developer...;from;Sri%20Lanka;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=VinilaDeveen&label=Profile%20views&color=0e75b6&style=flat" alt="VinilaDeveen" /> </p>
 
-- 🔭 I’m currently working on [Project Name](https://github.com/VinilaDeveen/ProjectName)
-- 🌱 I’m currently learning [Technology/Topic]
-- 👯 I’m looking to collaborate on [Project/Technology]
-- 🤔 I’m looking for help with [Issue/Project]
-- 💬 Ask me about [Topic/Technology]
-- 📫 How to reach me: [Email Address]
-- ⚡ Fun fact: [Insert Fun Fact Here]
+[![GitHub followers](https://img.shields.io/github/followers/VinilaDeveen.svg?style=social&label=Followers)](https://github.com/VinilaDeveen?tab=followers)
 
-## Languages and Tools
+<h3 align="center" > <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>About me</h3>
+<br>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- 🌱 I’m currently learning **C# Language**
 
-## Connect with Me
+- 🧑‍🎓 I’m an Undergraduate at KIU
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedin/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourtwitterhandle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+- 📫 How to reach me **deveenvinila2k01@gmail.com**
 
-## GitHub Stats
+- ⚡ Fun fact **Call me as Vinila**
 
-![VinilaDeveen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VinilaDeveen&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VinilaDeveen&layout=compact&theme=radical)
+<br>
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=VinilaDeveen&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=VinilaDeveen&theme=dark&hide_border=false" /> 
+</td>
 
-## Recent Activity
+<td width="50%" align="center">
 
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#1234](https://github.com/VinilaDeveen/ProjectName/issues/1234) in [VinilaDeveen/ProjectName](https://github.com/VinilaDeveen/ProjectName)
-2. 💪 Opened PR [#5678](https://github.com/VinilaDeveen/ProjectName/pull/5678) in [VinilaDeveen/ProjectName](https://github.com/VinilaDeveen/ProjectName)
-3. 🎉 Merged PR [#91011](https://github.com/VinilaDeveen/ProjectName/pull/91011) in [VinilaDeveen/ProjectName](https://github.com/VinilaDeveen/ProjectName)
-<!--END_SECTION:activity-->
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=VinilaDeveen&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+<br>
 
-## My Projects
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
-- [![Project Name](https://img.shields.io/static/v1?label=Project&message=Project%20Name&color=blue&style=for-the-badge)](https://github.com/VinilaDeveen/ProjectName)
-  - Description: Brief description of the project.
-- [![Another Project](https://img.shields.io/static/v1?label=Project&message=Another%20Project&color=blue&style=for-the-badge)](https://github.com/VinilaDeveen/AnotherProject)
-  - Description: Brief description of the project.
+<br>
+<p align="center">
+<a href="https://linkedin.com/in/vinila-deveen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nuwa0823" height="40" width="40" /></a>
+<a href="https://www.facebook.com/vinila.deveen?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="VinilaDeveen23" height="40" width="40" /></a>
+<a href="https://instagram.com/deveenvinila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nuwa08_23" height="40" width="40" /></a>
+<a href="http://www.youtube.com/@viniladeveen93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nuwa_23" height="40" width="40" /></a>
+<a href="https://www.hackerrank.com/deveenvinila2k01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="snt4800nuwa" height="40" width="40" /></a>
+</p>
+<br>
 
-## Blog Posts
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Languages and Tools🛠️</h3>
 
-<!-- BLOG-POST-LIST:START -->
-- [How to Get Started with GitHub](https://yourblog.com/how-to-get-started-with-github)
-- [Understanding JavaScript Closures](https://yourblog.com/understanding-javascript-closures)
-<!-- BLOG-POST-LIST:END -->
+<br>
+<p align="center">
+ </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Vite.svg" alt="vite" width="40" height="40"/> </a> 
+ <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/XD.svg" alt="xd" width="40" height="40"/> </a>
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Photoshop.svg?short_path=d680ce0" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Illustrator.svg" alt="illustator" width="40" height="40"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/HTML.svg" alt="html" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CSS.svg" alt="css" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/JavaScript.svg" alt="react" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Dark.svg" alt="js" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Dark.svg" alt="python" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Java-Dark.svg" alt="java" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="node" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="mysql" width="40" height="40"/> </a></p>
+
+</br>
+	
+<h3 align='center'>🐍 A Snake Eating my Contributions Graph</h3>
+	
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+
