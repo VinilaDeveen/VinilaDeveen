@@ -57,9 +57,9 @@ You can click the Preview link to take a look at your changes.-->
 
 <br>
 <p align="center">
-<a href="https://linkedin.com/in/vinila-deveen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nuwa0823" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/vinila-deveen" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="vinila-deveen" height="40" width="40" /></a>
 <a href="https://www.facebook.com/vinila.deveen?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="VinilaDeveen23" height="40" width="40" /></a>
-<a href="https://instagram.com/deveenvinila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nuwa08_23" height="40" width="40" /></a>
+<a href="https://instagram.com/deveenvinila" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Instagram.svg" alt="deveenvinila" height="40" width="40" /></a>
 <a href="http://www.youtube.com/@viniladeveen93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nuwa_23" height="40" width="40" /></a>
 <a href="https://www.hackerrank.com/deveenvinila2k01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="snt4800nuwa" height="40" width="40" /></a>
 </p>
@@ -94,16 +94,16 @@ You can click the Preview link to take a look at your changes.-->
     <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Dark.svg" alt="react" width="40" height="40"/>
   </a> 
   <a href="" target="_blank" rel="noreferrer"> 
-    <img src="https://vitejs.dev/logo.svg" alt="vite" width="40" height="40"/>
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Vite-Dark.svg" alt="vite" width="40" height="40"/>
   </a> 
   <a href="" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Java-Dark.svg" alt="java" width="40" height="40"/>
   </a> 
   <a href="" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="springboot" width="40" height="40"/>
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Spring-Dark.svg" alt="springboot" width="40" height="40"/>
   </a> 
   <a href="" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-plain.svg" alt="hibernate" width="40" height="40"/>
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Hibernate-Dark.svg" alt="hibernate" width="40" height="40"/>
   </a> 
   <a href="" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Dark.svg" alt="python" width="40" height="40"/>
@@ -112,10 +112,10 @@ You can click the Preview link to take a look at your changes.-->
     <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MongoDB.svg" alt="mongodb" width="40" height="40"/>
   </a> 
   <a href="" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="expressjs" width="40" height="40"/>
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/ExpressJS-Dark.svg" alt="expressjs" width="40" height="40"/>
   </a> 
   <a href="" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NextJS-Dark.svg" alt="nextjs" width="40" height="40"/>
   </a> 
   <a href="" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="nodejs" width="40" height="40"/>
