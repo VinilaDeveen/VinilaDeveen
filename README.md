@@ -58,7 +58,7 @@ You can click the Preview link to take a look at your changes.-->
 <br>
 <p align="center">
 <a href="https://linkedin.com/in/vinila-deveen" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="vinila-deveen" height="40" width="40" /></a>
-<a href="https://www.facebook.com/vinila.deveen?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="VinilaDeveen23" height="40" width="40" /></a>
+<a href="https://www.facebook.com/vinila.deveen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="VinilaDeveen23" height="40" width="40" /></a>
 <a href="https://instagram.com/deveenvinila" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Instagram.svg" alt="deveenvinila" height="40" width="40" /></a>
 <a href="http://www.youtube.com/@viniladeveen93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@viniladeveen93" height="40" width="40" /></a>
 <a href="https://www.hackerrank.com/deveenvinila2k01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="deveenvinila2k01" height="40" width="40" /></a>
