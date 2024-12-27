@@ -60,70 +60,34 @@ You can click the Preview link to take a look at your changes.-->
 <a href="https://linkedin.com/in/vinila-deveen" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="vinila-deveen" height="40" width="40" /></a>
 <a href="https://www.facebook.com/vinila.deveen?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="VinilaDeveen23" height="40" width="40" /></a>
 <a href="https://instagram.com/deveenvinila" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Instagram.svg" alt="deveenvinila" height="40" width="40" /></a>
-<a href="http://www.youtube.com/@viniladeveen93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nuwa_23" height="40" width="40" /></a>
-<a href="https://www.hackerrank.com/deveenvinila2k01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="snt4800nuwa" height="40" width="40" /></a>
+<a href="http://www.youtube.com/@viniladeveen93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@viniladeveen93" height="40" width="40" /></a>
+<a href="https://www.hackerrank.com/deveenvinila2k01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="deveenvinila2k01" height="40" width="40" /></a>
 </p>
 <br>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Languages and Tools🛠️</h3>
 
 <br>
-<p align="center">
-  <a href="" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Figma-Dark.svg" alt="figma" width="40" height="40"/> 
-  </a> 
-  <a href="" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/HTML.svg" alt="html" width="40" height="40"/> 
-  </a> 
-  <a href="" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CSS.svg" alt="css" width="40" height="40"/> 
-  </a> 
-  <a href="" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TypeScript.svg" alt="typescript" width="40" height="40"/>
-  </a> 
-  <a href="" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="tailwind" width="40" height="40"/>
-  </a> 
-  <a href="" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="40" height="40"/>
-  </a> 
-  <a href="" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Dark.svg" alt="react" width="40" height="40"/>
-  </a> 
-  <a href="" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Vite-Dark.svg" alt="vite" width="40" height="40"/>
-  </a> 
-  <a href="" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Java-Dark.svg" alt="java" width="40" height="40"/>
-  </a> 
-  <a href="" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Spring-Dark.svg" alt="springboot" width="40" height="40"/>
-  </a> 
-  <a href="" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Hibernate-Dark.svg" alt="hibernate" width="40" height="40"/>
-  </a> 
-  <a href="" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Dark.svg" alt="python" width="40" height="40"/>
-  </a> 
-  <a href="" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MongoDB.svg" alt="mongodb" width="40" height="40"/>
-  </a> 
-  <a href="" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/ExpressJS-Dark.svg" alt="expressjs" width="40" height="40"/>
-  </a> 
-  <a href="" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NextJS-Dark.svg" alt="nextjs" width="40" height="40"/>
-  </a> 
-  <a href="" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="nodejs" width="40" height="40"/>
-  </a> 
-  <a href="" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="mysql" width="40" height="40"/>
-  </a> 
-</p>
+	<p align="center">
+	  <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Figma-Dark.svg" alt="figma" width="40" height="40"/></a> 
+	  <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/HTML.svg" alt="html" width="40" height="40"/></a> 
+	  <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CSS.svg" alt="css" width="40" height="40"/></a> 
+	  <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/></a> 
+	  <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TypeScript.svg" alt="typescript" width="40" height="40"/></a> 
+	  <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="tailwind" width="40" height="40"/></a> 
+	  <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="40" height="40"/></a> 
+	  <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Dark.svg" alt="react" width="40" height="40"/></a> 
+	  <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Vite-Dark.svg" alt="vite" width="40" height="40"/></a> 
+	  <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Java-Dark.svg" alt="java" width="40" height="40"/></a> 
+	  <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Spring-Dark.svg" alt="springboot" width="40" height="40"/></a> 
+	  <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Hibernate-Dark.svg" alt="hibernate" width="40" height="40"/></a> 
+	  <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Dark.svg" alt="python" width="40" height="40"/></a> 
+	  <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MongoDB.svg" alt="mongodb" width="40" height="40"/></a> 
+	  <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/ExpressJS-Dark.svg" alt="expressjs" width="40" height="40"/></a> 
+	  <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NextJS-Dark.svg" alt="nextjs" width="40" height="40"/></a> 
+	  <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="nodejs" width="40" height="40"/></a> 
+	  <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="mysql" width="40" height="40"/></a> 
+	</p>
 </br>
 	
 <h3 align='center'>🐍 A Snake Eating my Contributions Graph</h3>
