@@ -40,5 +40,26 @@ You can click the Preview link to take a look at your changes.-->
 ## GitHub Stats
 
 ![VinilaDeveen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VinilaDeveen&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VinilaDeveen&layout=compact&theme=radical)
+
+## Recent Activity
+
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#1234](https://github.com/VinilaDeveen/ProjectName/issues/1234) in [VinilaDeveen/ProjectName](https://github.com/VinilaDeveen/ProjectName)
+2. 💪 Opened PR [#5678](https://github.com/VinilaDeveen/ProjectName/pull/5678) in [VinilaDeveen/ProjectName](https://github.com/VinilaDeveen/ProjectName)
+3. 🎉 Merged PR [#91011](https://github.com/VinilaDeveen/ProjectName/pull/91011) in [VinilaDeveen/ProjectName](https://github.com/VinilaDeveen/ProjectName)
+<!--END_SECTION:activity-->
+
+## My Projects
+
+- [![Project Name](https://img.shields.io/static/v1?label=Project&message=Project%20Name&color=blue&style=for-the-badge)](https://github.com/VinilaDeveen/ProjectName)
+  - Description: Brief description of the project.
+- [![Another Project](https://img.shields.io/static/v1?label=Project&message=Another%20Project&color=blue&style=for-the-badge)](https://github.com/VinilaDeveen/AnotherProject)
+  - Description: Brief description of the project.
+
+## Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [How to Get Started with GitHub](https://yourblog.com/how-to-get-started-with-github)
+- [Understanding JavaScript Closures](https://yourblog.com/understanding-javascript-closures)
+<!-- BLOG-POST-LIST:END -->
