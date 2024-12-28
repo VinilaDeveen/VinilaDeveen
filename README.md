@@ -37,15 +37,15 @@ You can click the Preview link to take a look at your changes.-->
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-
+	
 ![VinilaDeveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinilaDeveen&show_icons=true&theme=dark)
 <br>
 ![VinilaDeveen's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=VinilaDeveen&theme=dark&hide_border=false)
 </td>
 
-<td width="50%" align="center">
+<td width="50%" align="left">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=VinilaDeveen&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+![Top Langs](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=VinilaDeveen&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10)
   
   </td>
 </tr>
