@@ -37,8 +37,8 @@ You can click the Preview link to take a look at your changes.-->
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=VinilaDeveen&theme=dark&show_icons=true&count_private=true" />
+
+![VinilaDeveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinilaDeveen&show_icons=true&theme=dark)
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=VinilaDeveen&theme=dark&hide_border=false" /> 
 </td>
