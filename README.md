@@ -38,14 +38,15 @@ You can click the Preview link to take a look at your changes.-->
 <tr border="none">
 <td width="50%" align="center">
 	
-![VinilaDeveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinilaDeveen&show_icons=true&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api?username=VinilaDeveen&show_icons=true&theme=dark" alt="stats" width="500%" height="50%"/>
 <br>
-![VinilaDeveen's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=VinilaDeveen&theme=dark&hide_border=false)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VinilaDeveen&theme=dark&hide_border=false" alt="streak" width="500%" height="50%"/>
 </td>
 
-<td width="50%" align="left">
+<td width="50%" align="center">
 
-![Top Langs](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=VinilaDeveen&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10)
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=VinilaDeveen&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="Top Langs" width="500%" height="300" />
+
   
   </td>
 </tr>
