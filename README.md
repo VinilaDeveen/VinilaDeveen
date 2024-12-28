@@ -39,8 +39,8 @@ You can click the Preview link to take a look at your changes.-->
 <td width="50%" align="center">
 
 ![VinilaDeveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinilaDeveen&show_icons=true&theme=dark)
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=VinilaDeveen&theme=dark&hide_border=false" /> 
+<br>
+![VinilaDeveen's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=VinilaDeveen&theme=dark&hide_border=false)
 </td>
 
 <td width="50%" align="center">
