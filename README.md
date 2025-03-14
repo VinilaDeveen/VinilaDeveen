@@ -39,7 +39,8 @@ You can click the Preview link to take a look at your changes.-->
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinilaDeveen&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
   </div>
   <div align="center">
-    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=VinilaDeveen&theme=tokyonight&hide_border=true" alt="VinilaDeveen's streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=VinilaDeveen&theme=dark&hide_border=false" alt="streak"/>
+
   </div>
   <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=VinilaDeveen&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="VinilaDeveen's trophies" />
@@ -154,8 +155,10 @@ You can click the Preview link to take a look at your changes.-->
   </a>
 </p>
 
+<h3 align='center'>🐍 A Snake Eating my Contributions Graph</h3>
+
 <div align="center">
-  <img src="https://github.com/VinilaDeveen/VinilaDeveen/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </div>
 
 <div align="center">
