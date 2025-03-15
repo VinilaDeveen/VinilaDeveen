@@ -39,8 +39,7 @@ You can click the Preview link to take a look at your changes.-->
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinilaDeveen&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
   </div>
   <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=VinilaDeveen&theme=dark&hide_border=false" alt="streak"/>
-
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=VinilaDeveen&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="streak"/>
   </div>
   <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=VinilaDeveen&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="VinilaDeveen's trophies" />
